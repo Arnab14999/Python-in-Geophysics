@@ -3,5 +3,7 @@ This is a basic tutorial on the applications of **Python in Geophysics**. This t
 
 # Basics of Libraies
 (1) [Basics of Numpy](https://github.com/Arnab14999/Python-in-Geophysics/blob/main/Basics%20of%20Libraries/Numpy.ipynb)
+
 (2) [Basics of Pandas](https://github.com/Arnab14999/Python-in-Geophysics/blob/main/Basics%20of%20Libraries/Pandas.ipynb)
+
 (3) [Basics of Matplotlib](https://github.com/Arnab14999/Python-in-Geophysics/blob/main/Basics%20of%20Libraries/Matplotlib.ipynb)
